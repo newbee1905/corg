@@ -1,0 +1,7 @@
+--target=x86_64-pc-linux-gnu
+-std=gnu11
+-llua
+-I/usr/include/luajit-2.1/
+-I./include/
+-lm
+-ldl

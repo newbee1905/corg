@@ -1,0 +1,17 @@
+---
+Language: C
+BasedOnStyle: LLVM
+UseTab: ForIndentation
+IndentWidth: 2
+TabWidth: 2
+AlwaysBreakTemplateDeclarations: Yes
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: false
+ColumnLimit: 80
+AlignEscapedNewlinesLeft: false
+AllowShortFunctionsOnASingleLine: false
+AlignTrailingComments: true
+SpacesBeforeTrailingComments: 2
+PenaltyReturnTypeOnItsOwnLine: 200
+PointerAlignment: Right
+---
